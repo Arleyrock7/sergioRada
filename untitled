@@ -1,0 +1,27 @@
+<div id="banner2Virtual"> 
+  <section class="w-section section">
+    <div class="w-container">
+      <div>
+        <div class="w-row">  
+          <div class="w-col w-col-12 w-col-stack col-spc">
+
+          <div class="top-title">
+               <div class="title-txt">
+                  <!--<h5>Chef virtual&nbsp;<span class="sub-title-lighter">/&nbsp; Recetas</span></h5>-->
+              </div>
+              <div class="divider"></div>
+          </div>
+               <div class="w-embed">
+               <div class="accordion">
+<!--**************************************************************-->
+                                        
+<!--**************************************************************-->
+               </div>
+              </div>
+
+          </div>
+        </div>
+      </div>
+     </div>
+  </section>
+</div>

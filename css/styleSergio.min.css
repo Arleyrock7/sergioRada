@@ -1,0 +1,64 @@
+@import url("style.css");
+body a {
+  color: #00899E; }
+body .navigation {
+  margin-top: 0px; }
+  body .navigation .w-list-unstyled {
+    margin-top: -20px; }
+  body .navigation .dropdown-menu {
+    margin-top: -5px; }
+body .header-v1 {
+  position: fixed; }
+  body .header-v1 #logo {
+    margin-top: -10px; }
+  body .header-v1 .link-menu {
+    padding: 5px 1px; }
+  body .header-v1 #logo {
+    height: 70px; }
+body .txt-top {
+  display: inline-block; }
+body #contactDropdown {
+  display: none; }
+body .contacUs .fa {
+  color: white; }
+body .contacUs .txt-top {
+  color: white; }
+body .contacUs .top-link:hover {
+  background-color: rgba(0, 0, 0, 0.6); }
+body #equipo .blog {
+  margin-top: 10px;
+  color: #b3b3b3;
+  font-size: 17px; }
+  body #equipo .blog span {
+    border-radius: 5px;
+    color: white;
+    background-color: #038CA1;
+    padding: 5px; }
+    body #equipo .blog span:hover {
+      color: #038CA1;
+      background-color: rgba(179, 179, 179, 0.28); }
+body #bogota {
+  margin-top: 150px; }
+body .w-section {
+  margin-top: 0px; }
+  body .w-section #section {
+    margin-top: 20px; }
+  body .w-section #redes {
+    margin-top: 30px; }
+body #magazineAlexa {
+  height: 600px; }
+body #nosotros .profileWoman {
+  margin-top: 20px;
+  -webkit-border-radius: 150px;
+  -moz-border-radius: 150px;
+  border-radius: 150px; }
+body #nosotros .name-testi {
+  margin-top: -35px; }
+body #proveedores {
+  margin-top: -90px; }
+body footer #sedes li {
+  list-style: none; }
+body footer #sedes strong {
+  color: white; }
+
+/*# sourceMappingURL=styleSergio.min.css.map */
